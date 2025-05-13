@@ -20,6 +20,7 @@ public class MyStackDemo {
         System.out.println("Удаление и получение последнего элемента: " + myStack.pop());
         System.out.println("Удаление и получение последнего элемента: " + myStack.pop());
         System.out.println("Удаление и получение последнего элемента: " + myStack.pop());
+        System.out.println("Удаление и получение последнего элемента: " + myStack.pop());
 
         System.out.println("myStack пустой? " + myStack.isEmpty());
 

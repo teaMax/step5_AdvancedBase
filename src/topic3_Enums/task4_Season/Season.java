@@ -4,7 +4,7 @@ public enum Season {
     WINTER(-17.4), SPRING(10.3),
     SUMMER(24.5), FALL(7.8);
 
-    private double averageTemperature;
+    private final double averageTemperature;
 
     Season(double averageTemperature) {
         this.averageTemperature = averageTemperature;
